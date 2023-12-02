@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Snap!</string>
+    <string name="nav_snap_title">Snap!</string>
+    <string name="nav_home_title">Home</string>
+    <string name="nav_notifications_title">Notifications</string>
+    <string name="home_content_text">Hello from home</string>
+    <string name="notification_content_text">You\'ve got notifications</string>
+    <string name="snap_content_text">Tap the button to see something awesome</string>
+    <string name="dialog_title">Yup</string>
+    <string name="dialog_text">Something awesome</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="button_action_text">Don\'t miss out…</string>
+</resources>
